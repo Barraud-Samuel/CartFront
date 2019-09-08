@@ -1,0 +1,21 @@
+{
+  "name": "cartclient",
+  "version": "1.0.0",
+  "description": "My funkadelic Nuxt.js project",
+  "author": "barraud-samuel",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^2.0.0",
+    "@nuxtjs/bulma": "^1.2.1"
+  },
+  "devDependencies": {
+    "node-sass": "^4.12.0",
+    "sass-loader": "^8.0.0"
+  }
+}
